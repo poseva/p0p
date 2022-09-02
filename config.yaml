@@ -1,0 +1,7 @@
+baseURL: https://p0p.ro
+languageCode: en-us
+title: p0p.ro
+theme: mini
+
+# Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
+defaultContentLanguage: en
