@@ -15,12 +15,12 @@ Using tig as GitLens alternative for viewing git log as straight branches.
 
 At some point in time, all of us encountered what I call "spagitty" log that looks
 something like this:
-![Alt text](spagitty_log.png)
+![](/spagitty_log.png)
 
 Whoa... making sense of that history will take you some time but not
 if you have the right tools, and here is where tig comes in:
 
-![Alt text](tig_log.png)
+![](/tig_log.png)
 
 Looking at those straight branches makes you wonder why the heck we 
 don't have this option as an option in `git log` directly.
@@ -33,4 +33,4 @@ one.
 The pure beauty of straigt branches reminds me of something I liked
 doing as a kid... combing the fringes of our living room persian carpet.
 
-![Alt text](persian_rug_fringes.png)
+![](/persian_rug_fringes.png)
