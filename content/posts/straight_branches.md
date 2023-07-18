@@ -18,7 +18,7 @@ something like this:
 ![](/spagitty_log.png)
 
 Whoa... making sense of that history will take you some time but not
-if you have the right tools, and here is where tig comes in:
+if you have the right tools, and here is where `tig`[1] comes in:
 
 ![](/tig_log.png)
 
@@ -34,3 +34,5 @@ The pure beauty of straigt branches reminds me of something I liked
 doing as a kid... combing the fringes of our living room persian carpet.
 
 ![](/persian_rug_fringes.png)
+
+[1] https://github.com/jonas/tig
