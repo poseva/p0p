@@ -113721,7 +113721,7 @@
      viewer.shadowDropper.renderShadow(model.modelID);
  }
  
- loadIfc('https://p0p.ro/CasaR_complet.ifc');
+ loadIfc('https://p0p.ro/sarpanta_tibrului.ifc');
  
  window.ondblclick = () => viewer.IFC.selector.pickIfcItem(true);
  window.onmousemove = () => viewer.IFC.selector.prePickIfcItem();
