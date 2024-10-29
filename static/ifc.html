@@ -11,8 +11,13 @@
 <body>
     <div id="viewer-container"></div>
     <script>
-        var MyIfcPath = "https://p0p.ro/CasaM_R01_R02.ifc";
+        // Get the URL parameter
+        // p0p.ro/ifc.html?project=casam&model=casam_r01_r02
+        const urlParams = new URLSearchParams(window.location.search);
+        const modelName = urlParams.get('model') || 'casam'; // Default to CasaM if no parameter
+        const projectName = urlParams.get('project'); // Default to CasaM if no parameter
+        var MyIfcPath = `https://p0p.ro/ccia/${projectName}/${modelName}.ifc`;
     </script>
     <script src="bundle.js"></script>
 </body>
-</html
+</html>
